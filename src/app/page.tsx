@@ -52,7 +52,7 @@ export default function Home() {
                   Empowering Children Through Personalized Therapy
                 </h2>
                 <p className="text-gray-600 mb-6 leading-relaxed">
-                  At <strong>Arsh Pediatric Rehabilitation Center</strong>, we are dedicated to supporting your child's development through
+                  At <strong>Arsh Pediatric Rehabilitation Center</strong>, we are dedicated to supporting your child&apos;s development through
                   personalized, evidence-based therapy. Located in the heart of Ahmedabad, our experienced team provides compassionate
                   care tailored to each child&apos;s unique journey.
                 </p>
