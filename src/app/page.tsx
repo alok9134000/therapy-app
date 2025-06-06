@@ -54,7 +54,7 @@ export default function Home() {
                 <p className="text-gray-600 mb-6 leading-relaxed">
                   At <strong>Arsh Pediatric Rehabilitation Center</strong>, we are dedicated to supporting your child's development through
                   personalized, evidence-based therapy. Located in the heart of Ahmedabad, our experienced team provides compassionate
-                  care tailored to each child’s unique journey.
+                  care tailored to each child&apos;s unique journey.
                 </p>
                 <ul className="space-y-3 mb-8">
                   {[
