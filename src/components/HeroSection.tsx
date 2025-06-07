@@ -49,7 +49,7 @@ const HeroSection = () => {
                   <ArrowRight className="ml-2 w-5 h-5" />
                 </Button>
               </Link>
-              <Link href="/services">
+              <Link href="/services" aria-label='View our services'>
                 <Button
                   variant="outline"
                   className="border-2 border-pink-300 text-pink-600 hover:bg-pink-100 rounded-full px-8 py-3 text-lg"
