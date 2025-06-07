@@ -30,7 +30,7 @@ export default function Home() {
         />
         <meta property="og:url" content="https://db2770b4.therapy-app-2ge.pages.dev/" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_800/sample.jpg" />
+        <meta property="og:image" content="https://res.cloudinary.com/dicvxuysv/image/upload/v1749281479/WhatsApp_Image_2025-06-03_at_11.03.20_hqtuts.jpg" />
       </Head>
 
       <main className="min-h-screen">
@@ -69,7 +69,7 @@ export default function Home() {
                     </li>
                   ))}
                 </ul>
-                <Link href="/about" passHref>
+                <Link href="/about" passHref aria-label='Learn more about us'>
                   <Button className="bg-primary-500 hover:bg-primary-600 text-white rounded-full px-8">
                     Learn More About Us
                     <ArrowRight className="w-4 h-4 ml-2" />
@@ -80,9 +80,9 @@ export default function Home() {
               <aside className="relative">
                 <div className="bg-primary-50 rounded-3xl p-8 shadow-lg">
                   <Image
-                    src="https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_800/sample.jpg"
+                    src="https://res.cloudinary.com/dicvxuysv/image/upload/v1749281479/WhatsApp_Image_2025-06-03_at_11.03.20_hqtuts.jpg"
                     alt="Child receiving therapy at Arsh Pediatric Rehabilitation Center"
-                    width={800}
+                    width={600}
                     height={320}
                     className="rounded-2xl object-cover"
                   />
@@ -120,7 +120,7 @@ export default function Home() {
               >
                 <Button
                   variant="outline"
-                  className="border-white text-white hover:bg-white hover:text-primary-600 rounded-full px-8 py-3 text-lg"
+                  className="border-white text-white bg-transparent hover:bg-white hover:text-primary-600 rounded-full px-8 py-3 text-lg"
                 >
                   <Phone className="w-5 h-5 mr-2" />
                   Call Now: +91-9876543210
