@@ -65,7 +65,7 @@ const ServicesOverview = () => {
           whileInView="visible"
           viewport={{ once: true, margin: "-100px" }}
         >
-          {displayedServices.map((service, index) => (
+          {displayedServices.map((service, ) => (
             <motion.div 
               key={service.title} // Better to use a unique ID if available
               variants={cardVariants}

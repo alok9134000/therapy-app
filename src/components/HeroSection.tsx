@@ -1,6 +1,6 @@
 "use client";
 import { Button } from '@/components/ui/button';
-import { ArrowRight, Heart, Users, Award, Star, Cloud, Gift, Candy, Apple, HandHeart, CalendarCheck, Contact, PhoneCall, BadgeInfo } from 'lucide-react';
+import { ArrowRight, Heart, Users, Award, Star, Cloud, Gift, Candy, Apple, HandHeart} from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
