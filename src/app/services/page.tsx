@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: "Our Services | Pediatric Therapy Centre Ahmedabad",
     description:
       "Explore our specialized pediatric therapy services in Ahmedabad.",
-    url: "https://yourdomain.com/services",
+    url: "https://db2770b4.therapy-app-2ge.pages.dev/services",
     siteName: "Pediatric Therapy Centre Ahmedabad",
     images: [
       {
@@ -87,7 +87,7 @@ const Services = () => {
               "@context": "https://schema.org",
               "@type": "MedicalBusiness",
               name: "Pediatric Therapy Centre Ahmedabad",
-              url: "https://yourdomain.com/services",
+              url: "https://db2770b4.therapy-app-2ge.pages.dev/services",
               image:
                 "https://images.unsplash.com/photo-1721322800607-8c38375eef04?auto=format&fit=crop&q=80&w=600",
               description:
