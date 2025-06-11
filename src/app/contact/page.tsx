@@ -41,7 +41,7 @@ const Contact = () => {
       name: "Juhapura Center",
       address: "Near Juhapura Cross Roads, Ahmedabad - 380055",
       phone: "+91-9876543210",
-      email: "juhapura@pediatrictherapy.com",
+      email: "juhapura@paediatrictherapy.com",
       hours: "Mon-Sat: 9:00 AM - 6:00 PM",
       mapUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14688.086883635943!2d72.5714!3d23.0225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjPCsDAxJzIxLjAiTiA3MsKwMzQnMTcuMCJF!5e0!3m2!1sen!2sin!4v1234567890"
     },
@@ -49,7 +49,7 @@ const Contact = () => {
       name: "Navrangpura Center", 
       address: "Near Gujarat University, Navrangpura, Ahmedabad - 380009",
       phone: "+91-9876543211",
-      email: "navrangpura@pediatrictherapy.com",
+      email: "navrangpura@paediatrictherapy.com",
       hours: "Mon-Sat: 9:00 AM - 6:00 PM",
       mapUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14688.086883635943!2d72.5610!3d23.0395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjPCsDAyJzIyLjIiTiA3MsKwMzMnMzkuNiJF!5e0!3m2!1sen!2sin!4v1234567891"
     }
@@ -58,10 +58,10 @@ const Contact = () => {
   return (
     <>
     <Head>
-      <title>Contact Us - Pediatric Therapy Centre</title>
-      <meta name="description" content="Contact Pediatric Therapy Centre for expert pediatric therapy services in Ahmedabad. Schedule a consultation today." />
-      <meta property="og:title" content="Contact Us - Pediatric Therapy Centre" />
-      <meta property="og:description" content="Get in touch with our team to schedule pediatric therapy consultations and learn more about our services." />
+      <title>Contact Us - paediatric Therapy Centre</title>
+      <meta name="description" content="Contact paediatric Therapy Centre for expert paediatric therapy services in Ahmedabad. Schedule a consultation today." />
+      <meta property="og:title" content="Contact Us - paediatric Therapy Centre" />
+      <meta property="og:description" content="Get in touch with our team to schedule paediatric therapy consultations and learn more about our services." />
     </Head>
     <div className="min-h-screen py-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -72,7 +72,7 @@ const Contact = () => {
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
             Ready to take the first step? Get in touch with our team to schedule a consultation 
-            or learn more about our pediatric therapy services.
+            or learn more about our paediatric therapy services.
           </p>
         </div>
 
@@ -141,7 +141,7 @@ const Contact = () => {
                   >
                     <option value="">Select a service</option>
                     <option value="speech-therapy">Speech Therapy</option>
-                    <option value="physiotherapy">Pediatric Physiotherapy</option>
+                    <option value="physiotherapy">paediatric Physiotherapy</option>
                     <option value="occupational-therapy">Occupational Therapy</option>
                     <option value="autism-aba">Autism & ABA Therapy</option>
                     <option value="sensory-integration">Sensory Integration</option>
@@ -211,7 +211,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-800">Email Us</h4>
-                    <p className="text-gray-600">info@pediatrictherapy.com</p>
+                    <p className="text-gray-600">info@paediatrictherapy.com</p>
                     <p className="text-sm text-primary-600">Response within 24 hours</p>
                   </div>
                 </div>

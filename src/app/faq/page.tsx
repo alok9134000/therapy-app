@@ -30,7 +30,7 @@ const FAQ = () => {
     {
       id: "age-range",
       question: "What age range do you serve?",
-      answer: "We provide therapy services for children from infancy through adolescence (0-18 years). Our programs are specifically designed for pediatric populations, with age-appropriate activities and techniques for each developmental stage."
+      answer: "We provide therapy services for children from infancy through adolescence (0-18 years). Our programs are specifically designed for paediatric populations, with age-appropriate activities and techniques for each developmental stage."
     },
     {
       id: "insurance-coverage",
@@ -65,7 +65,7 @@ const FAQ = () => {
     {
       id: "qualifications",
       question: "What are the qualifications of your therapists?",
-      answer: "All our therapists are licensed professionals with specialized training in pediatric therapy. They hold relevant degrees (Masters/PhD) in their respective fields and maintain current certifications. Our team regularly participates in continuing education to stay updated with the latest evidence-based practices."
+      answer: "All our therapists are licensed professionals with specialized training in paediatric therapy. They hold relevant degrees (Masters/PhD) in their respective fields and maintain current certifications. Our team regularly participates in continuing education to stay updated with the latest evidence-based practices."
     }
   ];
 
@@ -83,7 +83,7 @@ const FAQ = () => {
             Frequently Asked Questions
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Find answers to common questions about our pediatric therapy services, 
+            Find answers to common questions about our paediatric therapy services, 
             processes, and what to expect when working with our team.
           </p>
         </div>

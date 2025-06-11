@@ -29,7 +29,7 @@ const LocationsMap = () => {
             Our Locations in Ahmedabad
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Visit us at our convenient locations in Juhapura and Navrangpura for comprehensive pediatric therapy services.
+            Visit us at our convenient locations in Juhapura and Navrangpura for comprehensive paediatric therapy services.
           </p>
         </div>
 

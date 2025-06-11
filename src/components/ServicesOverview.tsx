@@ -58,7 +58,7 @@ const ServicesOverview = () => {
                       </li>
                     ))}
                   </ul>
-                  <Link href={`/services#${service.title.toLowerCase().replace(/\s+/g, '-')}`} passHref>
+                  <Link href={`/services/${service.title.toLowerCase().replace(/\s+/g, '-')}`} passHref>
                     <Button 
                       variant="outline" 
                       className="w-full border-primary-300/80 text-primary-600 hover:bg-primary-50 hover:text-primary-700 rounded-xl group-hover:bg-primary-500 group-hover:text-white group-hover:border-primary-500 transition-all duration-300 shadow-sm hover:shadow-md group-hover:shadow-primary-200/50"

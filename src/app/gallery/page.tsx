@@ -12,14 +12,14 @@ const Gallery = () => {
     {
       id: 1,
       src: "https://res.cloudinary.com/demo/image/upload/w_800,q_auto,f_auto/sample.jpg",
-      alt: "Speech therapy session with child at Pediatric Therapy Centre Ahmedabad",
+      alt: "Speech therapy session with child at paediatric Therapy Centre Ahmedabad",
       category: "Speech Therapy",
       description: "Individual speech therapy session focused on language development"
     },
     {
       id: 2,
       src: "https://res.cloudinary.com/demo/image/upload/w_800,q_auto,f_auto/sample.jpg",
-      alt: "Pediatric physiotherapy equipment and therapy room in Juhapura",
+      alt: "paediatric physiotherapy equipment and therapy room in Juhapura",
       category: "Physiotherapy",
       description: "Modern physiotherapy equipment designed for children"
     },

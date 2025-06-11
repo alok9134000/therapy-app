@@ -15,7 +15,7 @@ const Footer = () => {
                 <span className="text-white font-bold text-lg">PT</span>
               </div>
               <h3 className="text-xl font-poppins font-semibold">
-                Pediatric Therapy Centre
+                paediatric Therapy Centre
               </h3>
             </div>
             <p className="text-gray-300 mb-4 max-w-md">
@@ -82,7 +82,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-primary-400" />
-                <span className="text-gray-300">info@pediatrictherapy.com</span>
+                <span className="text-gray-300">info@paediatrictherapy.com</span>
               </div>
               <div className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-primary-400 mt-1" />
@@ -97,7 +97,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center">
           <p className="text-gray-300">
-            © 2024 Pediatric Therapy Centre. All rights reserved.
+            © 2024 paediatric Therapy Centre. All rights reserved.
           </p>
         </div>
       </div>

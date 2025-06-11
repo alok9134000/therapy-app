@@ -9,8 +9,8 @@ import dynamic from 'next/dynamic';
 
 // Static data
 const stats = [
-  { value: "500+", label: "Children Helped", icon: <UserCheck className="w-8 h-8 mx-auto mb-3" /> },
-  { value: "15+", label: "Years Experience", icon: <Stars className="w-8 h-8 mx-auto mb-3" /> },
+  { value: "1000+", label: "Children Helped", icon: <UserCheck className="w-8 h-8 mx-auto mb-3" /> },
+  { value: "13+", label: "Years Experience", icon: <Stars className="w-8 h-8 mx-auto mb-3" /> },
   { value: "10+", label: "Specialized Therapists", icon: <Users className="w-8 h-8 mx-auto mb-3" /> },
   { value: "98%", label: "Parent Satisfaction", icon: <HeartPulse className="w-8 h-8 mx-auto mb-3" /> }
 ];
@@ -65,18 +65,18 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Arsh Pediatric Rehabilitation Center – Therapy & Care in Ahmedabad</title>
+        <title>Arsh paediatric Rehabilitation Center – Therapy & Care in Ahmedabad</title>
         <meta
           name="description"
-          content="Arsh Pediatric Rehabilitation Center offers personalized therapy for children in Ahmedabad. Speech, Occupational, ABA Therapy & more – book a free consultation!"
+          content="Arsh paediatric Rehabilitation Center offers personalized therapy for children in Ahmedabad. Speech, Occupational, ABA Therapy & more – book a free consultation!"
         />
-        <meta name="keywords" content="Pediatric therapy Ahmedabad, Speech therapy, Child rehabilitation, ABA Therapy, Occupational Therapy" />
+        <meta name="keywords" content="paediatric therapy Ahmedabad, Speech therapy, Child rehabilitation, ABA Therapy, Occupational Therapy" />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://db2770b4.therapy-app-2ge.pages.dev/" />
-        <meta property="og:title" content="Arsh Pediatric Rehabilitation Center – Therapy & Care in Ahmedabad" />
+        <meta property="og:title" content="Arsh paediatric Rehabilitation Center – Therapy & Care in Ahmedabad" />
         <meta
           property="og:description"
-          content="Personalized pediatric therapy and rehabilitation services in Ahmedabad. Helping every child grow and thrive."
+          content="Personalized paediatric therapy and rehabilitation services in Ahmedabad. Helping every child grow and thrive."
         />
         <meta property="og:url" content="https://db2770b4.therapy-app-2ge.pages.dev/" />
         <meta property="og:type" content="website" />
@@ -169,7 +169,7 @@ export default function Home() {
               </Link>
               <a
                 href="tel:+919876543210"
-                aria-label="Call Arsh Pediatric Rehabilitation Center"
+                aria-label="Call Arsh paediatric Rehabilitation Center"
                 rel="noopener noreferrer"
               >
                 <button

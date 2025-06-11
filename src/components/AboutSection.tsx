@@ -39,7 +39,7 @@ const scaleUp = {
 };
 
 const aboutItems = [
-  { icon: <HeartPulse className="w-5 h-5" />, text: 'Specialized pediatric therapists' },
+  { icon: <HeartPulse className="w-5 h-5" />, text: 'Specialized paediatric therapists' },
   { icon: <BrainCircuit className="w-5 h-5" />, text: 'Customized rehabilitation programs' },
   { icon: <Speech className="w-5 h-5" />, text: 'Multidisciplinary therapy approaches' },
   { icon: <Activity className="w-5 h-5" />, text: 'Parent-inclusive treatment plans' },
@@ -75,7 +75,7 @@ export default function AboutSection() {
               Empowering Children Through <span className="text-primary-500">Personalized Therapy</span>
             </motion.h2>
             <motion.p variants={itemVariants} className="text-gray-600 mb-6 leading-relaxed text-lg">
-              At <strong className="text-primary-600">Arsh Pediatric Rehabilitation Center</strong>, we are dedicated to supporting your child&apos;s development through
+              At <strong className="text-primary-600">Arsh paediatric Rehabilitation Center</strong>, we are dedicated to supporting your child&apos;s development through
               personalized, evidence-based therapy. Our experienced team provides compassionate
               care tailored to each child&apos;s unique journey.
             </motion.p>
@@ -121,7 +121,7 @@ export default function AboutSection() {
               <div className="absolute inset-0 bg-primary-500/10 z-0"></div>
               <Image
                 src="https://res.cloudinary.com/dicvxuysv/image/upload/v1749281479/WhatsApp_Image_2025-06-03_at_11.03.20_hqtuts.jpg"
-                alt="Child receiving therapy at Arsh Pediatric Rehabilitation Center"
+                alt="Child receiving therapy at Arsh paediatric Rehabilitation Center"
                 width={600}
                 height={720}
                 className="w-full h-auto object-cover scale-100 hover:scale-105 transition-transform duration-700"
